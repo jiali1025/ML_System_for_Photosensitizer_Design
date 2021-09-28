@@ -1,4 +1,4 @@
-# A Self-Improving Photosensitizer Discovery System via Bayesian Search Algorithm and First-Principle Simulation
+# Self-Improving Photosensitizer Discovery System via Bayesian Search with First-Principle Simulations
 
 ## Code 
 Code used for photosensitizer (PS) molecular space generation, graph convolutional model training, active learning, and other analysis purposes are found in this repository.
